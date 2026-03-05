@@ -45,4 +45,12 @@ The dispensing system was calibrated by measuring the volume delivered by the pu
 It was observed that **6500 ms of motor operation fills approximately 250 ml**.  
 The dispensing time for each ingredient is calculated proportionally based on the selected percentage.
 
-## Project Structure
+
+## Applications
+- Beverage vending machines
+- Automated drink mixing systems
+- Smart kitchen appliances
+- Educational embedded systems projects
+
+## Author
+Savidu Lasal
